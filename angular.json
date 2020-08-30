@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "enveep"
+    }
+  },
+  "defaultProject": "enveep",
+  "cli": {
+    "analytics": false
+  }
 }
